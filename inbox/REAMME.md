@@ -19,3 +19,6 @@ infura.api
 
 //安装一个module
 npm install --save truffle-hdwallet-provider
+
+//test
+npm run test
